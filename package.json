@@ -1,0 +1,12 @@
+{
+  "name": "this_means_war",
+  "version": "1.0.0",
+  "description": "Baseball stats querying and visualization app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "https://github.com/terryskylark/this_means_WAR",
+  "author": "Tyler Call <tyler.m.call@gmail.com>",
+  "license": "MIT"
+}
